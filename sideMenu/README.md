@@ -1,2 +1,3 @@
-Inline-style: 
+# Side Menu
+-----------
 ![alt text](./screenshot.png)
