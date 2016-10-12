@@ -4,14 +4,15 @@
 This repository is for future designs of the playola iPhone app.
 
 To contribute:
-1. create (or open) a new branch with the appropriate version number as the name:
+1. Mess around in master all you want...
+2. When finished, copy any changes to the AI files in each folder.
+3. If a screenflow has changed, take a new screenshot of the entire flow (cmd-shift-4), name it "screenshot.png", and save it in the appropriate folder.
+4. Create a new branch for the changes...then immediately switch back to continue working on the next version.
 ```
 git checkout -b 2.9
+git checkout master
 ```
-2. Mess around all you want in the playground folder
-3. When finished messing around, copy final changes to the other folders.  Each folder should contain the final version of a single app pathway.
-4. After each design is finished, create a pull request to merge into master
-5. All supporting files (images/fonts/etc) should go in the Resources folder.
+5. All supporting files (images/fonts/etc) should be saved into the AI file or should contain relative links to the Resources folder.
 
 
 # Version 3.0 Checklist
