@@ -15,7 +15,7 @@ git checkout -b 2.9
 
 
 # Version 3.0 Checklist
-=======================
+-----------------------
 1. Side Menu -- new link for station...
   a. enabled
   b. disabled with timer
@@ -31,7 +31,7 @@ git checkout -b 2.9
 
 
 # Version 3.1 Checklist
-=======================
+-----------------------
 1. After Song Search Pages... opportunity to find similar songs
 2. Add Friends to Discover Page
        -- If no friends (find My Facebook friends/find my google contacts button)
